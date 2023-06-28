@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import logging
 
+import pandas as pd
+
 os.listdir()
 
 import os
@@ -8,4 +10,3 @@ import os
 import ldap3
 
 g = 33
-import pandas as pd
