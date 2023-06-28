@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 import logging
-import os
 
 import pandas as pd
 
 os.listdir()
+
+import os
 
 import ldap3
 
